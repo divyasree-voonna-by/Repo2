@@ -1,0 +1,11 @@
+ Volume in drive C has no label.
+ Volume Serial Number is AE38-7E83
+
+ Directory of C:\Users\j1012969\Desktop\MyProjectTest
+
+04/09/2020  08:21 PM    <DIR>          .
+04/09/2020  08:21 PM    <DIR>          ..
+04/09/2020  08:21 PM               363 test1.tat
+04/09/2020  08:21 PM                 0 test1.txt
+               2 File(s)            363 bytes
+               2 Dir(s)  29,014,822,912 bytes free
